@@ -133,7 +133,7 @@ Name the folder as 'bancode'.
 Files required to download here are : vocab.json, tokenizer.json,config.json,merges.txt,pytorch_model.bin, tokenizer_config.json,special_tokens_map.json.
 Name the folder as 'nli-MiniLM2-L6-H768'.
 
-Place the above folders in a folder named 'models' in the following way: 'responsible-ai-mm-flask/models'.
+Place the above folders in a folder named 'models' in the following way: 'responsible-ai-moderationmodel/models'.
 
 ## Running the Application
 Once we have completed all the aforementioned steps, we can start the service.
