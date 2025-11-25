@@ -9,7 +9,7 @@
 - [Set Configuration Variables](#set-configuration-variables)
 - [Running the Application](#running-the-application)
 - [Features](#features)
-- [Docker Image](#Dockerimage)
+- [Docker Image](#Docker-image)
 - [License](#license)
 - [Contact](#contact)
 
